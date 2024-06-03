@@ -1,5 +1,8 @@
 # AMK Production🚀
-Delighted to unveil the latest milestone in my journey - AMKProduction, a dynamic React.js project now live at amkproduction.in! 🌟 From envisioning its design on Figma to bringing it to life with React.js for frontend and Next.js for backend, every step has been a testament to my passion for full-stack development. Join me on this adventure, explore the website, and share your feedback! #AMKProduction Here are some Screenshots of the Webapp#ReactJS #FullStackDevelopment #WebDesign
+Delighted to unveil the latest milestone in my journey - AMKProduction, a dynamic React.js project. From envisioning its design on Figma to bringing it to life with React.js for frontend and Next.js for backend, every step has been a testament to my passion for full-stack development. Join me on this adventure, explore the website, and share your feedback! #AMKProduction Here are some Screenshots of the Webapp#ReactJS #FullStackDevelopment #WebDesign
+
+# now live at https://amkproduction.in! 🌟
+
 ## System Requirements
 To run this ReactJS project, your system should meet the following requirements:
 
