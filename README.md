@@ -21,12 +21,12 @@ Before you begin, ensure you have met the following requirements:
 Clone the repository
 
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/thundeerfang/amk-production-reactjs-photography-website
 ```
 ## Navigate to the project directory
 
 ```sh
-cd your-repo-name
+cd amk
 ```
 
 ## Install dependencies
@@ -37,18 +37,6 @@ npm install
 
 * Running the Application
 * Start the development server
-
-```sh
-npm start
-```
-This will run the application in development mode. Open http://localhost:3000 to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
-
-## Build the application for production
-
-```sh
-npm run build
-```
-This will create a build directory with the production build of your application. The build is minified, and the filenames include the hashes. Your app is ready to be deployed!
 
 ## Additional Scripts
 Test the application
